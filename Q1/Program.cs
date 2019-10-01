@@ -10,6 +10,7 @@ namespace Q1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test Successful");
         }
     }
 }
