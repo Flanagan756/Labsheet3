@@ -49,6 +49,25 @@ namespace Q1
         {
             return string.Format("Car Make: {0}" + "Car Model: {1}" + "Car Current Speed: {2} Car Engine Size: {3}", Make, Model, CurrentSpeed, EngineSize);
         }
+
+        public  void Accelerate()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                CurrentSpeed += 10;
+                Console.WriteLine();
+                if (CurrentSpeed<=100)
+                {
+                    Console.WriteLine("The Accelerated Speed is: {0}", CurrentSpeed);
+                }
+                else
+                {
+                    Console.WriteLine("Max speed of {0} has been reached",100);
+                }
+               
+            }
+           
+        }
     }
 
 }

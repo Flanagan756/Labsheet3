@@ -30,6 +30,9 @@ namespace Q1
             Console.WriteLine("Car 2");
             car2.DisplayCarInfo();
 
+            
+            car1.Accelerate();
+
 
         }
        
