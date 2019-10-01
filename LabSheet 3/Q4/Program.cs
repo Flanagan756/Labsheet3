@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Q4
+namespace Q4_and_Q5
 {
     class Program
     {
@@ -33,6 +33,14 @@ namespace Q4
             cash1.DisplayTotals(cash1.items, cash1.total, cash1.name);
             Console.WriteLine();
             cash2.DisplayTotals(cash2.items, cash2.total, cash2.name);
+
+           
+            double allTotal = cash1.total + cash2.total;
+            int allItems = cash1.items + cash2.items;
+
+            Console.WriteLine();
+            Console.WriteLine("Total money for all registers is {0:c}", allTotal);
+            Console.WriteLine("Total items for all registers is {0}", allItems);
 
         }
     }

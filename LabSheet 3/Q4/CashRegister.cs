@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Q4
+namespace Q4_and_Q5
 {
     class CashRegister
     {
@@ -26,6 +26,7 @@ namespace Q4
             Console.WriteLine("Total Cash: {0:c}",finalTotal);
               
         }
+        
             
          
        
