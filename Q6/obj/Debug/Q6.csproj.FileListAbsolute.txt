@@ -1,0 +1,7 @@
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\obj\Debug\Q6.csprojAssemblyReference.cache
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\obj\Debug\Q6.csproj.CoreCompileInputs.cache
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\bin\Debug\Q6.exe.config
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\bin\Debug\Q6.exe
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\bin\Debug\Q6.pdb
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\obj\Debug\Q6.exe
+C:\Users\Johnathon\OneDrive - Institute of Technology Sligo\Harry (You can delete later)\Q6\Q6\obj\Debug\Q6.pdb
